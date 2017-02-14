@@ -52,16 +52,47 @@
 		<header class="header" id="header" role="banner">
 			
 			<!-- <a href="" class="navigation-trigger js-navigation-trigger" id="navigation-trigger"><i></i></a> -->
-
-			<nav class="navigation" id="navigation" role="navigation">
+			<div class="ahrtitle">	
 				
-				<ul class="clear">
-					<li><a href="//" class="envellop"><img src="/wp-content/themes/yamate-office/assets/images/common/env.png"></li>
-					<li><a href="/about">About</a></li>
-					<li><a href="/services">Services</li>
-					<li><a href="/q&a">Q&amp;A</a></li>
-					<li><a href="/access">Access</a></li>
-				</ul>
+			</div>	
+			<nav class="navigation" id="navigation" role="navigation">
+			<div class="nav">
+				<div class="navunit">
+				<ul>
+				    <li>ABOUT
+				      <ul class="drop-down">
+				        <a href=""><li>uno</li></a>
+				        <a href=""><li>dos</li></a>
+				        <a href=""><li>tres</li></a>
+				      </ul>
+				    </li>
+				 </ul>
+				 </div>
+				 <div class="navunit">
+				<ul>
+				    <li>GALLERY
+				      <ul class="drop-down">
+				        <a href=""><li>uno</li></a>
+				        <a href=""><li>dos</li></a>
+				        <a href=""><li>tres</li></a>
+				      </ul>
+				    </li>
+				 </ul>
+				 </div>
+				    <div class="navunit">
+				<ul>
+				    <li>CONTACT
+				      <ul class="drop-down">
+				        <a href=""><li>uno</li></a>
+				        <a href=""><li>dos</li></a>
+				        <a href=""><li>tres</li></a>
+				      </ul>
+				    </li>
+				 </ul>
+				 </div>
+			</div>
+					
+				
 			</nav>
 		</header>
 
@@ -75,36 +106,7 @@
 		</div>
 
 		<footer class="contentfooter">
-	<div class="footerbox">
-		<div class="entry">
-			<div class="footer__title">PARTNER</div>
-			<div class="footer__entry">
-				<div class=""><a href="/">テクスト</a></div>
-				<div class=""><a href="/">テクスト</a></div>
-				<div class=""><a href="/">テクスト</a></div>
-			</div>
-		</div>
-		<div class="entry">
-			<div class="footer__title">INFOS</div>
-			<div class="footer__entry">
-				<div class=""><a href="/">INFOS</a></div>
-				<div class=""><a href="/">INFOS</a></div>
-				<div class=""><a href="/">INFOS</a></div>
-			</div>
-		</div>
-		<div class="entry">
-			<div class="footer__title">FOLLOW US ON</div>
-			<div class="sns__entry">
-				<div class=""><a href="/"><img src="/wp-content/themes/yamate-office/assets/images/common/insta.png" class="sns"></a></div>
-				<div class=""><a href="/"><img src="/wp-content/themes/yamate-office/assets/images/common/facebook.png" class="sns"></a></div>
-				<div class=""><a href="/"><img src="/wp-content/themes/yamate-office/assets/images/common/twitter.png" class="sns"></a></div>
-			</div>
 			
-		</div>
-
-	</div>
-	<div class="copyright">Copyright © 2016 All rights reserved</div>
-		<div class="shape_5"></div>
 		</footer>
 		
 
